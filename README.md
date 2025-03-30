@@ -1,15 +1,25 @@
-# Sistema de Gestión de Turnos Médicos
-
-Este repositorio contiene el desarrollo del **Sistema de Gestión de Turnos Médicos**, diseñado como parte de la actividad obligatoria de la materia **Diseño Orientado a Objetos**.
-
-## 📌 Descripción
-El objetivo de este proyecto es desarrollar un sistema que permita la organización eficiente de turnos médicos, evitando problemas como la pérdida de citas, doble asignación de horarios y falta de confirmaciones.
-
-## 📂 Estructura del Repositorio
-- 📁 `docs/` - Contiene los archivos con información teórica y planificación del proyecto.
-  - 📄 [Anexos](docs/anexos.md)
+# Sistema de Gestión de Turnos Médicos - Diseño del Sistema
 
 ---
 
-## 📎 Anexos
-Para más detalles sobre la base teórica y la planificación del sistema, consulta el archivo [Anexos](docs/anexos.md).
+**Apellido Nombre:**  Gatto Lucas 
+**Materia - Carrera:** Diseño Orientado a Objetos - Tecnicatura Universitaria en Programación de Sistemas  
+**Profesor:** Lic. Matías Velasquez  
+**Año:** 2025  
+
+---
+
+##  Descripción
+
+El objetivo es diseñar un sistema para un centro de salud que permita gestionar turnos médicos de manera eficiente, evitando conflictos como duplicación de horarios, pérdida de citas y falta de confirmación. El sistema aplica los principios de la Programación Orientada a Objetos para lograr un diseño estructurado y reutilizable.
+
+##  Estructura del Repositorio
+
+- `docs/anexos.md` → Contiene los enlaces a la documentación inicial.
+- `docs/introduccion.md` → Contiene la introducción teórica, requisitos, casos de uso y diseño de clases.
+
+##  Anexos
+
+Accedé a la documentación completa desde el siguiente enlace:
+
+👉 [Ver Anexos](docs/anexos.md)
