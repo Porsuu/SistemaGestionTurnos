@@ -3,7 +3,8 @@
 ---
 
 **Apellido Nombre:**  Gatto Lucas 
-**Materia - Carrera:** Diseño Orientado a Objetos - Tecnicatura Universitaria en Programación de Sistemas  
+**Materia:** Diseño Orientado a Objetos 
+**Carrera:** Tecnicatura Universitaria en Programación de Sistemas  
 **Profesor:** Lic. Matías Velasquez  
 **Año:** 2025  
 
