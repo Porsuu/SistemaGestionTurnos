@@ -157,6 +157,6 @@ A continuación, se muestra un boceto del diseño de clases pensado para el sist
 ![Diagrama de Clases](diagrama_clases.png)
 
 
-https://excalidraw.com/#json=ljdni7cG0kz_iVOWqOumk,Owip7uVX9vxoVQMqeagBAw
+https://excalidraw.com/#json=ljdni7cG0kz_iVOWqOumk,Owip7uVX9vxoVQMqeagBAw  
 🔗 Ver imagen completa: [docs/diagrama_clases.png](diagrama_clases.png)
 
