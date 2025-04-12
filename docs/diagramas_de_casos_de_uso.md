@@ -6,29 +6,29 @@ A continuación se presentan los cinco diagramas de casos de uso principales del
 
 ## Caso de Uso 1: Pedir Turno
 
-![Pedir Turno](docs/diagramas/CasoUso1.png)
+![Pedir Turno](diagramas/CasoUso1.png)
 
 ---
 
 ## Caso de Uso 2: Gestionar Turno
 
-![Gestionar turno](docs/diagramas/CasoUso2.png)
+![Gestionar turno](diagramas/CasoUso2.png)
 
 ---
 
 ## Caso de Uso 3: Notificación de turno
 
-![Notificación de turno](docs/diagramas/CasoUso3.png)
+![Notificación de turno](diagramas/CasoUso3.png)
 
 ---
 
 ## Caso de Uso 4: Modificar datos del paciente
 
-![Modificar datos del paciente](docs/diagramas/CasoUso4.png)
+![Modificar datos del paciente](diagramas/CasoUso4.png)
 
 ---
 
 ## Caso de Uso 5: Visualizar historial de turnos
 
-![Visualizar historial de turnos](docs/diagramas/CasoUso5.png)
+![Visualizar historial de turnos](diagramas/CasoUso5.png)
 
