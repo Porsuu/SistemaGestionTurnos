@@ -14,14 +14,8 @@ El objetivo es diseñar un sistema para un centro de salud que permita gestionar
 
 ##  Estructura del Repositorio
 
-- [Contiene los enlaces a la documentación inicial.](anexos.md) 
-- [Contiene la introducción teórica, requisitos, casos de uso y diseño de clases.](introduccion.md) 
-- [Contiene el índice con los enlaces de Diagramas y Escenarios de caso de uso.](diagramasUML.md) 
-- [Contiene los escenarios de caso de uso para su intepretación.](escenarios_de_casos_de_uso.md) 
-- [Contiene los diagramas de los casos de uso.](diagramas_de_casos_de_uso.md) 
-
-##  Anexos
-
-Accedé a la documentación completa desde el siguiente enlace:
-
-[Ver Anexos](docs/anexos.md)
+- [Contiene los enlaces a la documentación inicial.](docs/anexos.md) 
+- [Contiene la introducción teórica, requisitos, casos de uso y diseño de clases.](docs/introduccion.md) 
+- [Contiene el índice con los enlaces de Diagramas y Escenarios de caso de uso.](docs/diagramasUML.md) 
+- [Contiene los escenarios de caso de uso para su intepretación.](docs/escenarios_de_casos_de_uso.md) 
+- [Contiene los diagramas de los casos de uso.](docs/diagramas_de_casos_de_uso.md) 
