@@ -6,7 +6,7 @@ A continuación se presentan los cinco diagramas de casos de uso principales del
 
 ## Caso de Uso 1: Pedir Turno
 
-![Pedir Turno](docs/diagramas/CasoUso1.png)
+![Pedir Turno](/diagramas/CasoUso1.png)
 
 ---
 
