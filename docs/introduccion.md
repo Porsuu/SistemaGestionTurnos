@@ -99,15 +99,15 @@ Cada paciente debe tener un historial de todos los turnos tomados, incluyendo su
 - **Precondiciones:** El paciente debe estar registrado. El profesional debe tener disponibilidad en ese horario.
 - **Postcondiciones:** El turno queda registrado como "pendiente" en el sistema.
 
-### Caso de Uso 2: Confirmar o Cancelar un Turno
+### Caso de Uso 2: Confirmar, Cancelar o Modificar un Turno
 
 - **Actor(es):** Profesional de la salud, Administrador
-- **Descripción:** Permite confirmar la asistencia del paciente o cancelar un turno previamente agendado.
+- **Descripción:** Permite confirmar la asistencia del paciente o cancelar/modificar un turno previamente agendado.
 - **Flujo principal de eventos:**
   1. El profesional o el administrador accede al sistema.
   2. Busca el turno por paciente, fecha o profesional.
   3. Selecciona el turno correspondiente.
-  4. Cambia su estado a "confirmado" o "cancelado".
+  4. Cambia su estado a "confirmado", "cancelado" o "modificado".
 - **Precondiciones:** El turno debe existir en el sistema y estar en estado "pendiente".
 - **Postcondiciones:** El estado del turno se actualiza. Se notifica al paciente.
 
