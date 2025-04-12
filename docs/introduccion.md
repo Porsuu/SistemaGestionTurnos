@@ -155,8 +155,12 @@ Cada paciente debe tener un historial de todos los turnos tomados, incluyendo su
 A continuación, se muestra un boceto del diseño de clases pensado para el sistema de gestión de turnos médicos:
 
 ![Diagrama de Clases](diagrama_clases.png)
+[boceto de diagrama de clases](https://excalidraw.com/#json=IVxz4jjlpxSviRDek7qL6,qOq12z3e-NzXf4we2Sguwg) 
+---
 
+## Diagramas y Diseños
 
-[https://excalidraw.com/#json=ljdni7cG0kz_iVOWqOumk,Owip7uVX9vxoVQMqeagBAw ](https://excalidraw.com/#json=IVxz4jjlpxSviRDek7qL6,qOq12z3e-NzXf4we2Sguwg) 
-🔗 Ver imagen completa: [docs/diagrama_clases.png](diagrama_clases.png)
+- [Anexos](anexos.md)
+- [Diagramas UML](diagramasUML.md)
+- [Herramientas Agile](herramientas_agile.md)
 
