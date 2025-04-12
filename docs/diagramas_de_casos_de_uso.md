@@ -1,7 +1,5 @@
 # Diagramas de Casos de Uso
 
-A continuación se presentan los cinco diagramas de casos de uso principales del sistema de gestión de turnos médicos. Cada uno representa una interacción clave entre los actores (pacientes, profesionales y administrador) y el sistema.
-
 ---
 
 ## Caso de Uso 1: Pedir Turno
