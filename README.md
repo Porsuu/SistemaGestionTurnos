@@ -19,3 +19,6 @@ El objetivo es diseñar un sistema para un centro de salud que permita gestionar
 - [Contiene el índice con los enlaces de Diagramas y Escenarios de caso de uso.](docs/diagramasUML.md) 
 - [Contiene los escenarios de caso de uso para su intepretación.](docs/escenarios_de_casos_de_uso.md) 
 - [Contiene los diagramas de los casos de uso.](docs/diagramas_de_casos_de_uso.md) 
+
+## Mejoras estructurales
+Sumamos diagramas de casos de uso, escenarios de casos y uso y tarjetas CRC para mejorar la compresión, alcance y escalabilidad del desarrollo del gestor de turnos.
