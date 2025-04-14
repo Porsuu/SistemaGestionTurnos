@@ -1,0 +1,3 @@
+# Caso de Uso 1: Pedir Turno
+
+![Diagrama - Pedir Turno](diagramas/CasoUso1.png)
