@@ -152,7 +152,7 @@ Cada paciente debe tener un historial de todos los turnos tomados, incluyendo su
 
 ## Boceto Inicial del Diseño de Clases
 
-- [Boceto de diseño de clases](https://github.com/user-attachments/assets/c023e096-6878-49ce-896d-85f1cd32b79e)
+![Boceto de diseño de clases](https://github.com/user-attachments/assets/c023e096-6878-49ce-896d-85f1cd32b79e)
 ---
 
 ## Diagramas y Diseños
