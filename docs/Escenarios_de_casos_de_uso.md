@@ -1,4 +1,4 @@
-# Escenarios de Casos de Uso
+## Escenarios de casos de uso
 
 ---
 
