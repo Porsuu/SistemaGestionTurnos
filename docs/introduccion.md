@@ -43,11 +43,11 @@ Significa que diferentes clases pueden compartir el mismo método, pero implemen
 
 ## Requisitos Funcionales del Sistema
 
--El sistema debe permitir registrar nuevos turnos, modificarlos o cancelarlos. Cada turno debe tener fecha, hora, estado (pendiente, confirmado o cancelado), paciente, médico, motivo y observaciones.
--Al asignar un turno, el sistema debe validar que el médico no tenga otro turno en ese mismo horario, y que esté dentro de su horario de atención.
--Se debe poder registrar pacientes (con sus datos personales y contacto) y profesionales (con matrícula, especialidad, horarios, etc.), y editarlos si es necesario.
--El sistema debe enviar notificaciones a pacientes y médicos cuando un turno sea confirmado, modificado o cancelado. Idealmente por correo electrónico o mensaje.
--Cada paciente debe tener un historial de todos los turnos tomados, incluyendo sus fechas, estados y médicos asignados.
+-El sistema debe permitir registrar nuevos turnos, modificarlos o cancelarlos. Cada turno debe tener fecha, hora, estado (pendiente, confirmado o cancelado), paciente, médico, motivo y observaciones.  
+-Al asignar un turno, el sistema debe validar que el médico no tenga otro turno en ese mismo horario, y que esté dentro de su horario de atención.  
+-Se debe poder registrar pacientes (con sus datos personales y contacto) y profesionales (con matrícula, especialidad, horarios, etc.), y editarlos si es necesario.  
+-El sistema debe enviar notificaciones a pacientes y médicos cuando un turno sea confirmado, modificado o cancelado. Idealmente por correo electrónico o mensaje.  
+-Cada paciente debe tener un historial de todos los turnos tomados, incluyendo sus fechas, estados y médicos asignados.  
 
 ---
 
