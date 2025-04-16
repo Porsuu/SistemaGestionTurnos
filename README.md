@@ -5,11 +5,11 @@
 - *Profesor:* Lic. Matías Velasquez   
 - *Año:* 2025  
 
-##  Descripción
+###  Descripción
 
 El objetivo es diseñar un sistema para un centro de salud que permita gestionar turnos médicos de manera eficiente, evitando conflictos como duplicación de horarios, pérdida de citas y falta de confirmación. El sistema aplica los principios de la Programación Orientada a Objetos para lograr un diseño estructurado y reutilizable.
 
-##  Estructura del Repositorio
+###  Estructura del Repositorio
 
 - [Contiene los enlaces a la documentación inicial.](docs/anexos.md) 
 - [Contiene la introducción teórica, requisitos, casos de uso y diseño de clases.](docs/introduccion.md) 
@@ -18,5 +18,5 @@ El objetivo es diseñar un sistema para un centro de salud que permita gestionar
 - [Contiene los diagramas de los casos de uso.](docs/diagramas_de_casos_de_uso.md)
 - [Contiene las las herramientas agile](docs/herramientas_agile.md)
 
-## Mejoras estructurales
+### Mejoras estructurales
 Sumamos diagramas de casos de uso, escenarios de casos y uso y tarjetas CRC para mejorar la compresión, alcance y escalabilidad del desarrollo del gestor de turnos.
