@@ -1,7 +1,7 @@
 ## Sistema de Gestión de Turnos Médicos
 
 **Apellido Nombre:** Gatto Lucas  
-**Materia - Carrera**: Diseño Orientado a Objetos - Tecnicatura Universitaria en Programación de Sistemas 
+**Materia - Carrera**: Diseño Orientado a Objetos - Tecnicatura Universitaria en Programación de Sistemas   
 **Profesor:** Lic. Matías Velasquez   
 **Año:** 2025  
 
