@@ -11,6 +11,6 @@ El objetivo es diseñar un sistema para un centro de salud que permita gestionar
 
 ###  Diagramas y Diseños 
 
-- [Anexos](docs/anexos.md) 
-- [Diagramas UML](docs/diagramasUML.md) 
-- [Herramientas Agile](docs/herramientas_agile.md)
+- [Anexos](docs/Anexos.md) 
+- [Diagramas UML](docs/DiagramasUML.md) 
+- [Herramientas Agile](docs/Herramientas_agile.md)
