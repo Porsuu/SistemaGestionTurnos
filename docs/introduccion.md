@@ -152,9 +152,7 @@ Cada paciente debe tener un historial de todos los turnos tomados, incluyendo su
 
 ## Boceto Inicial del Diseño de Clases
 
-A continuación, se muestra un boceto del diseño de clases pensado para el sistema de gestión de turnos médicos:
-
-[[![Diagrama de Clases](diagrama_clases.png)](https://github.com/Porsuu/SistemaGestionTurnos/issues/1#issue-3000964023)](https://github.com/Porsuu/SistemaGestionTurnos/issues/1#issue-3000964023)
+![Boceto de clases](https://github.com/Porsuu/SistemaGestionTurnos/issues/1#issue-3000964023)
 ---
 
 ## Diagramas y Diseños
