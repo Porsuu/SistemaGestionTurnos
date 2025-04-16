@@ -152,7 +152,7 @@ Cada paciente debe tener un historial de todos los turnos tomados, incluyendo su
 
 ## Boceto Inicial del Diseño de Clases
 
-![Boceto de clases]([https://github.com/Porsuu/SistemaGestionTurnos/issues/1#issue-3000964023](https://private-user-images.githubusercontent.com/114075197/434559921-c023e096-6878-49ce-896d-85f1cd32b79e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ4NDU4MjcsIm5iZiI6MTc0NDg0NTUyNywicGF0aCI6Ii8xMTQwNzUxOTcvNDM0NTU5OTIxLWMwMjNlMDk2LTY4NzgtNDljZS04OTZkLTg1ZjFjZDMyYjc5ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQxNlQyMzE4NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYTY3ZDU3ZTFmNGFmZWFhMjBhMTU0NTZlNWFjYWY4NjhiNGVlYzM3ODcwOWFlNTE1YjE1ZmNjZDY1YWZlMGEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6-Q63n43cXck7Y67YDQNmttrdIMH6EzY7k-yAQ3yoFM))
+- [Boceto de diseño de clases](https://github.com/user-attachments/assets/c023e096-6878-49ce-896d-85f1cd32b79e)
 ---
 
 ## Diagramas y Diseños
