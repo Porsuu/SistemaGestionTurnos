@@ -1,5 +1,4 @@
-# Sistema de Gestión de Turnos Médicos - Diseño del Sistema
-
+# Sistema de Gestión de Turnos Médicos
 ---
 - *Apellido Nombre:* Gatto Lucas  
 - *Materia: Diseño Orientado a Objetos - Tecnicatura Universitaria en Programación de Sistemas*
