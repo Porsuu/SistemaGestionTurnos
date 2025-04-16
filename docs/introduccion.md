@@ -20,66 +20,34 @@ A continuación se detallan los pilares fundamentales del paradigma POO.
 
 
 ### 1. Encapsulamiento 
-
 Permite ocultar los detalles internos de un objeto, exponiendo solo lo necesario para su uso externo. Así, se protege la integridad de los datos y se reduce la complejidad.
-
-**Ejemplo real:**  
-Un control remoto: vos solo apretás los botones (subir volumen, cambiar canal), pero no necesitás saber qué circuitos se activan por dentro.
-
+*Ejemplo:* 
+-Un control remoto: vos solo apretás los botones (subir volumen, cambiar canal), pero no necesitás saber qué circuitos se activan por dentro.
 
 ### 2. Abstracción 
-
 Consiste en modelar las características esenciales de un objeto, ignorando los detalles irrelevantes. Nos permite centrarnos en lo importante para el problema que resolvemos.
-
-**Ejemplo real:**  
-Al pedir una pizza, solo te interesa elegir el sabor, tamaño y pagar. No necesitás saber el paso a paso de cómo la hacen en la cocina.
-
+*Ejemplo:* 
+-Al pedir una pizza, solo te interesa elegir el sabor, tamaño y pagar. No necesitás saber el paso a paso de cómo la hacen en la cocina.
 
 ### 3. Herencia 
-
 Permite que una clase (hija) herede atributos y métodos de otra clase (padre), facilitando la reutilización del código.
-
-**Ejemplo real:**  
-Una clase `Persona` tiene nombre, DNI y fecha de nacimiento. Una clase `Médico` puede heredar de `Persona` y además tener matrícula y especialidad.
-
+*Ejemplo:* 
+-Una clase `Persona` tiene nombre, DNI y fecha de nacimiento. Una clase `Médico` puede heredar de `Persona` y además tener matrícula y especialidad.
 
 ### 4. Polimorfismo
-
 Significa que diferentes clases pueden compartir el mismo método, pero implementarlo de formas distintas.
-
-**Ejemplo real:**  
-El método `mostrarDatos()` puede existir tanto en `Paciente` como en `Médico`, pero cada uno mostrará información diferente según lo que sea relevante.
+*Ejemplo real:*  
+-El método `mostrarDatos()` puede existir tanto en `Paciente` como en `Médico`, pero cada uno mostrará información diferente según lo que sea relevante.
 
 ---
 
 ## Requisitos Funcionales del Sistema
 
-A continuación, se detallan cinco funcionalidades clave que el sistema deberá cumplir para solucionar los problemas actuales del centro de salud.
-
-
-### 1. Registro y Gestión de Turnos
-
-El sistema debe permitir registrar nuevos turnos, modificarlos o cancelarlos. Cada turno debe tener fecha, hora, estado (pendiente, confirmado o cancelado), paciente, médico, motivo y observaciones.
-
-
-### 2. Validación de Disponibilidad
-
-Al asignar un turno, el sistema debe validar que el médico no tenga otro turno en ese mismo horario, y que esté dentro de su horario de atención.
-
-
-### 3. Gestión de Pacientes y Profesionales
-
-Se debe poder registrar pacientes (con sus datos personales y contacto) y profesionales (con matrícula, especialidad, horarios, etc.), y editarlos si es necesario.
-
-
-### 4. Notificaciones Automáticas
-
-El sistema debe enviar notificaciones a pacientes y médicos cuando un turno sea confirmado, modificado o cancelado. Idealmente por correo electrónico o mensaje.
-
-
-### 5. Historial de Turnos
-
-Cada paciente debe tener un historial de todos los turnos tomados, incluyendo sus fechas, estados y médicos asignados.
+-El sistema debe permitir registrar nuevos turnos, modificarlos o cancelarlos. Cada turno debe tener fecha, hora, estado (pendiente, confirmado o cancelado), paciente, médico, motivo y observaciones.
+-Al asignar un turno, el sistema debe validar que el médico no tenga otro turno en ese mismo horario, y que esté dentro de su horario de atención.
+-Se debe poder registrar pacientes (con sus datos personales y contacto) y profesionales (con matrícula, especialidad, horarios, etc.), y editarlos si es necesario.
+-El sistema debe enviar notificaciones a pacientes y médicos cuando un turno sea confirmado, modificado o cancelado. Idealmente por correo electrónico o mensaje.
+-Cada paciente debe tener un historial de todos los turnos tomados, incluyendo sus fechas, estados y médicos asignados.
 
 ---
 
