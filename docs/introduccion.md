@@ -119,11 +119,4 @@ Significa que diferentes clases pueden compartir el mismo método, pero implemen
 ## Boceto Inicial del Diseño de Clases
 
 ![Boceto de diseño de clases](https://github.com/user-attachments/assets/c023e096-6878-49ce-896d-85f1cd32b79e)
----
-
-## Diagramas y Diseños
-
-- [Anexos](anexos.md)
-- [Diagramas UML](diagramasUML.md)
-- [Herramientas Agile](herramientas_agile.md)
-
+Link:[archivo ufx para umletino](https://drive.google.com/file/d/1WCMF3t7ktANTOmICO3qxALOLoZMAS6XE/view?usp=sharing)
