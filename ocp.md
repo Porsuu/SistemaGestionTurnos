@@ -8,10 +8,11 @@ Cuando se necesita modificar una clase cada vez que se quiere agregar una nueva 
 
 ### Motivación
 
-En el sistema de turnos, inicialmente la lógica para notificar a los pacientes podía estar directamente en la clase *Turno*, con condiciones del tipo:
+El OCP se aplica creando clases concretas que implementan una interfaz común. Esto permite agregar nuevas funcionalidades sin tocar el código ya existente, simplemente conectando nuevas clases a la interfaz.
 
-Esto permite que con el principio OCP, simplemente definimos una interfaz MedioNotificacion, y cada implementación se encarga de su propio método enviar. Entonces, Turno o Paciente usan esa interfaz sin saber cuál es la implementación concreta.
+En nuestro caso, definimos la interfaz NotificarTurno, y luego implementamos distintas clases como NotificacionEmail y NotificacionWhatsApp, cada una con su lógica específica. Así, la clase Turno o Paciente pueden usar la interfaz sin importar qué implementación concreta se está utilizando.
 
+Esto respeta el OCP porque extender el comportamiento (agregar una nueva forma de notificación) no requiere modificar las clases que ya funcionan.
 ### Estructura de Clases
 
 ![Image](https://github.com/user-attachments/assets/a1d00961-9815-452e-add0-d0d5315a87fc)
