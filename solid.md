@@ -1,5 +1,4 @@
 ## Anexo - Principios SOLID
---
 
 - Responsabilidad Única (SRP)
 - Abierto/Cerrado (OCP)
