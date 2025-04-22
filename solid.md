@@ -1,7 +1,7 @@
 ## Anexo - Principios SOLID
 
-- Responsabilidad Única (SRP)
-- Abierto/Cerrado (OCP)
-- Sustitución de Liskov (LSP)
-- Segregación de Interfaces (ISP)
-- Inversión de Dependencias (DIP)
+- Responsabilidad Única (srp.md)
+- Abierto/Cerrado (ocp.md)
+- Sustitución de Liskov (lsp.md)
+- Segregación de Interfaces (isp.md)
+- Inversión de Dependencias (dip.md)
