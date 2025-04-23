@@ -18,6 +18,13 @@ Esto permite:
 - Reutilizar NotificarTurno en otros contextos (como recordatorios).
 - Hacer pruebas unitarias más simples y enfocadas.
 
+**Ejemplo del mundo real**  
+
+Un recepcionista que agenda turnos no debería encargarse también de enviar los recordatorios. Si mezcla tareas, se vuelve ineficiente y cualquier cambio en cómo se notifican los pacientes puede afectar la agenda.  
+
+Lo mismo en código: si una clase gestiona turnos y también notifica, está asumiendo dos responsabilidades distintas.  
+Separarlas hace que cada parte del sistema sea más clara, más estable y más fácil de mantener.  
+
 ### Estructura de Clases
 ![Image](https://github.com/user-attachments/assets/d88d68dd-d7b5-4eb0-9402-c8896c5dd251)
 
