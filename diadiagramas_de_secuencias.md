@@ -1,1 +1,1 @@
-### Diagramas de Secuencias
+## Diagramas de Secuencias
