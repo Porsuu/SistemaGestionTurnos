@@ -5,6 +5,6 @@
 
 - [Escenarios de Caso de Uso](Escenarios_de_casos_de_uso.md)
 
-- [Diagramas de actividades ](diagramas_de_actividades.md)
+- [Diagramas de Actividades ](diagramas_de_actividades.md)
 
-- [Diagramas de secuencias](diagramas_de_secuencias.md)
+- [Diagramas de Secuencias](diagramas_de_secuencias.md)
