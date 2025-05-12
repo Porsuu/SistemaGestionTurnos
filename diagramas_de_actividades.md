@@ -1,4 +1,4 @@
-## Diagramas de actividades
+## Diagramas de Actividades
 
  - [Diagrama de Actividad](https://github.com/user-attachments/assets/a3c7ba60-6d6f-430d-b827-ed513df717e5) - Gestionar un turno   
  - [Diagrama de Actividad](https://github.com/user-attachments/assets/6efd6448-7855-4896-b76d-dc57b0301435) - Ver historial de un paciente
