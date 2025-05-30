@@ -1,7 +1,7 @@
 ## Diagramas de Actividades
 
- - [Diagrama de Actividad - Registrar un turno solicitado por el paciente con el administrador contempla todos los casos (positivos/negativos)](https://github.com/user-attachments/assets/b893ccfe-d43e-4034-8861-4d538a4eecb0) 
- - [Diagrama de Actividad - Gestionar un turno por el profesional (Confirmado, Rechazado y Modificado) caso exitoso](https://github.com/user-attachments/assets/a3c7ba60-6d6f-430d-b827-ed513df717e5)
- - [Diagrama de Actividad - Notificar un turno ya gestionado caso existoso](https://github.com/user-attachments/assets/d7e4a0c8-2ae8-41f1-894e-fe79fa97209a)
- - [Diagrama de Actividad - Modificar Datos del Paciente por el administrador caso exitoso](https://github.com/user-attachments/assets/3a9cbe2f-41b0-4f27-a4b6-dfcf9a26e031)
- - [Diagrama de Actividad - Visualizar Historial de Turnos por el paciente caso exitoso](https://github.com/user-attachments/assets/6efd6448-7855-4896-b76d-dc57b0301435)
+ - [Diagrama de Actividad - Registrar un turno solicitado por el paciente con el administrador contempla todos los casos](https://github.com/user-attachments/assets/186ab7e3-1c7b-4533-a7e1-375877651b0b) 
+ - [Diagrama de Actividad - Gestionar un turno por el profesional (Confirmado, Rechazado y Modificado) caso exitoso](https://github.com/user-attachments/assets/22215035-4831-4a68-a3da-4db403d5385c)
+ - [Diagrama de Actividad - Notificar un turno caso existoso](https://github.com/user-attachments/assets/d38b60f7-40c6-4d29-b970-1e254142f330)
+ - [Diagrama de Actividad - Modificar Datos del Paciente por el administrador caso exitoso](https://github.com/user-attachments/assets/82f51622-837e-4771-8324-9e46a0fd29d3)
+ - [Diagrama de Actividad - Visualizar Historial de Turnos por el Administrador caso exitoso](https://github.com/user-attachments/assets/5d6b5c64-75ee-4f0e-8620-2234c733481d)
