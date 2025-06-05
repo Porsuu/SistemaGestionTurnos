@@ -17,9 +17,8 @@ Entonces empiezan a quedar métodos vacíos.
 Eso rompe el *ISP*, el profesional no debería tener que implementar métodos que no necesita.
 
 **Ejemplo del mundo real:**  
-Imaginate un control remoto con 50 botones... pero solo querés subir y bajar el volumen.
-¿Por qué estás obligado a tener un botón para programar VHS si ni tenés videocasetera?
-Ese es el problema de las interfaces gigantes: te obligan a lidiar con cosas que no usás.
+En un sistema de gestión de turnos, el Administrador tiene acceso a toda la cartera de turnos de manera global. Sin embargo, podemos aplicar el Principio de Segregación de Interfaces creando una interfaz específica para el Profesional, que le permita únicamente visualizar y gestionar sus propios turnos.
+De esta manera, cada rol implementa únicamente las operaciones que necesita, evitando comportamientos innecesarios y reduciendo el acoplamiento.
 
 #### Estructura de Clases
  *Utilizamos el mismo diagrama que LSP porque ambos principios van de la mano.*
