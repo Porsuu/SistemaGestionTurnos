@@ -30,4 +30,4 @@ Ahora, GestorTurnos puede recibir una NotificadorFactory (o una de sus implement
 
 ### Estructura de Clases
 ![Diagrama aplicando Factory Method](https://github.com/user-attachments/assets/e16e1138-e716-400b-aac4-c0b8f1af88ee)
-[Enlace para UMLETINO](https://drive.google.com/file/d/1HsRVAKwJImFCCWVgg691Z8yJYOZVGNwb/view?usp=sharing)
+![Enlace para UMLETINO](https://drive.google.com/file/d/1HsRVAKwJImFCCWVgg691Z8yJYOZVGNwb/view?usp=sharing)
