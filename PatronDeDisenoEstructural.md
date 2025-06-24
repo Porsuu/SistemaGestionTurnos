@@ -25,4 +25,4 @@ El problema que me encontraba antes de aplicar el patrón Decorator era que si y
 
 ### Estructura de Clases
 ![Diagrama aplicando Decorator](https://github.com/user-attachments/assets/daf21948-158c-4262-87bf-337f29ff0aa9)
-![Enlace para UMLetino](https://drive.google.com/file/d/1nEnsXNp6IOk8XtGr39n6q7_7z-hzkNNX/view?usp=drive_link)
+[Enlace para UMLetino](https://drive.google.com/file/d/1nEnsXNp6IOk8XtGr39n6q7_7z-hzkNNX/view?usp=drive_link)
