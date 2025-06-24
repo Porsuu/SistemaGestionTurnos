@@ -3,7 +3,7 @@
 
 Los patrones estructurales se enfoncan en cómo ensamblar objetos y clases para formar estructuras más grandes y complejas, garantizando al mismo tiempo que estas estructuras mantengan su flexibilidad y eficiencia. Su propósito fundamental es simplificar el diseño al identificar relaciones claras entre las entidades del sistema, lo que conduce a la creación de software más modular, comprensible y escalable. Estos patrones, definidos inicialmente por el "Gang of Four" (GoF), son considerados fundamentales en el desarrollo de software orientado a objetos, promoviendo sistemas más robustos y fáciles de mantener.
 
-El patrón Factory Method es uno de los más conocidos dentro de este grupo. Permite que una superclase defina un método para crear objetos, pero deja que las subclases decidan qué tipo concreto instanciar.
+El patrón Decorator te permite estructurar tu lógica de negocio en capas, crear un decorador para cada capa y componer objetos con varias combinaciones de esta lógica, durante el tiempo de ejecución. El código cliente puede tratar a todos estos objetos de la misma forma, ya que todos siguen una interfaz común.
 
 Los patrones de diseño se amalgaman perfectamente con los principios SOLID, siempre manteniendo una linea de orden y posiblidad de escalabilidad sostenible.
 
