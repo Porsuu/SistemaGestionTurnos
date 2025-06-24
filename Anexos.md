@@ -1,6 +1,6 @@
 # Anexos
 - [Anexo - Introducción al Diseño Orientado a Objetos](introduccion.md)
 - [Anexo - Principios SOLID](solid.md)
-- [Anexo - Aplicación de Patrón de Diseño creacional]()
+- [Anexo - Aplicación de Patrón de Diseño creacional](PatrondeDisenoCreacional.md)
 - [Anexo - Aplicación de Patrón de Diseño estructural](PatronDeDisenoEstructural.md)
-- [Anexo - Aplicación de Patrón de Diseño de comportamiento]()
+- [Anexo - Aplicación de Patrón de Diseño de comportamiento](PatronDeDisenoDeComportamiento.md)
