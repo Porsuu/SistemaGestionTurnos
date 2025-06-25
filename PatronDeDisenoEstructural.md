@@ -13,16 +13,16 @@ Los patrones de diseño se amalgaman perfectamente con los principios SOLID, sie
 
 - **SRP (Responsabilidad Única):** al dividir responsabilidades entre clases conectadas, cada una se enfoca en una sola tarea.  
 
-### Propósito y Tipo del Patrón
+## Propósito y Tipo del Patrón
 
 El **patrón Decorator** es un diseño estructural que permite agregar funcionalidades extra a un objeto de forma flexible y dinámica, sin modificar su estructura original. En lugar de alterar el código base, lo envolvemos con capas que amplían su comportamiento.
 
 Así, podés sumar nuevas responsabilidades sin romper nada, manteniendo el código limpio, extensible y fiel a los principios SOLID.
 
-### Motivación
+## Motivación
 
 El problema que me encontraba antes de aplicar el patrón Decorator era que si yo quería modificar o agregar una funcionalidad nueva por ejemplo validación de reintentos, logs, etc. Necesitaba si o si modificar código de las clases bases lo cual podía llegar a generar problema, con esta aplicación podemos, sumar valor, escalabilidad al programa y además mantenemos la responsabilidad única (SRP) firme. No tocamos nada de código ya hecho sino que generamos una extensión la cual plantea nuevas funcionalidades sin acoplar todo en una clase.
 
-### Estructura de Clases
-![Diagrama aplicando Decorator](https://github.com/user-attachments/assets/daf21948-158c-4262-87bf-337f29ff0aa9)
-[Enlace para UMLetino](https://drive.google.com/file/d/1nEnsXNp6IOk8XtGr39n6q7_7z-hzkNNX/view?usp=drive_link)
+## Estructura de Clases
+![Diagrama aplicando Decorator](https://github.com/user-attachments/assets/7077e8a1-bea0-4890-bc58-982c05389747)
+[Enlace para UMLetino](https://drive.google.com/file/d/1NSjXTSeZJzrZBQzgdi6FKVolaHYJVreS/view?usp=sharing)
