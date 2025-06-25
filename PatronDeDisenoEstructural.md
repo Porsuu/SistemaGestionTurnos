@@ -15,7 +15,7 @@ Los patrones de diseño se amalgaman perfectamente con los principios SOLID, sie
 
 ### Propósito y Tipo del Patrón
 
-El **patrón Decorator** permite agregar funcionalidades extra a un objeto de forma flexible y dinámica, sin modificar su estructura original. En lugar de alterar el código base, lo envolvemos con capas que amplían su comportamiento.
+El **patrón Decorator** es un diseño estructural que permite agregar funcionalidades extra a un objeto de forma flexible y dinámica, sin modificar su estructura original. En lugar de alterar el código base, lo envolvemos con capas que amplían su comportamiento.
 
 Así, podés sumar nuevas responsabilidades sin romper nada, manteniendo el código limpio, extensible y fiel a los principios SOLID.
 
