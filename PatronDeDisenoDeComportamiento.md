@@ -21,10 +21,13 @@ Antes de aplicar el patrón, cada servicio (como el de logs, notificaciones por 
 
 Con el patrón **Observer**:
 
-- Centralizamos el evento en un **sujeto observable**, como el `GestorTurnos`.
-- Cada servicio que debe reaccionar (por ejemplo, `NotificadorEmail`, `Logger`, etc.) se registra como **observador**.
-- Cuando se produce un cambio, el sistema notifica automáticamente a todos los observadores, sin necesidad de modificar el código principal.
+- Ahora cualquier clase interesada puede suscribirse y escuchar cuando un turno cambia de estado.
+- La clase Turno ya no depende de otras clases simplemente ahora avisa "Cambie de estado" a las suscriptores que lo escuchen.
+- Se genera un desacople muy grande, escalabilidad y SRP, se nota el cambio de responsabilidad única, cada clase hace lo suyo, GestorTurnos gestiona turnos, Turnos avisa cambios y guarda información concreta para reportes.
 
 Esto mejoró la escalabilidad y permitió aplicar los principios OCP y SRP.
 
 ### Estructura de Clases
+
+![Patron Observer](https://github.com/user-attachments/assets/baf33885-d99e-44d5-876d-3d0b844ff804)
+[Enlace para UMLetino](https://drive.google.com/file/d/1h48VG2EehJb4qil-BdOj_dYIW0cKe_ps/view?usp=sharing)
