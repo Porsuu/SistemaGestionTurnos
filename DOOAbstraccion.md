@@ -10,7 +10,7 @@ En relación a los Principios SOLID:
   el sistema depende de abstracciones (`INotificadorTurno`), no de clases concretas.
 - Favorece el **OCP** (Abierto/Cerrado): se pueden agregar nuevas implementaciones sin modificar las clases existentes.
 
-También va muy alineado con lo que son los patroñes de diseño:  
+También va muy alineado con lo que son los patroñes de diseño un ejemplo:  
 - **Decorator**: 
  Agrega responsabilidades a un objeto de forma dinámica, usando una interfaz común.  
  Todos los decoradores implementan la misma abstracción (INotificadorTurno), lo que permite componer objetos sin alterar su estructura base.  
