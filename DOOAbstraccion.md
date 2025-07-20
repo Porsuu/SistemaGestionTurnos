@@ -5,6 +5,15 @@ Se enfoca en qué hace un objeto, no cómo lo hace, permitiendo trabajar con una
 
 En la práctica, aplicamos abstracción cuando definimos **interfaces o clases abstractas** que representan comportamientos genéricos, y luego dejamos que otras clases los implementen con los detalles concretos.
 
+En relación a los Principios SOLID:
+- Refuerza el principio de **Inversión de Dependencias (DIP)**:  
+  el sistema depende de abstracciones (`INotificadorTurno`), no de clases concretas.
+- Favorece el **OCP** (Abierto/Cerrado): se pueden agregar nuevas implementaciones sin modificar las clases existentes.
+
+También va muy alineado con lo que son los patroñes de diseño:  
+- **Decorator**: 
+ Agrega responsabilidades a un objeto de forma dinámica, usando una interfaz común.  
+ Todos los decoradores implementan la misma abstracción (INotificadorTurno), lo que permite componer objetos sin alterar su estructura base.  
 
 ## Ejemplo en el proyecto
 ![abstraccionPOO](https://github.com/user-attachments/assets/88a6ece2-968f-43ee-95b6-56d62be10452)
