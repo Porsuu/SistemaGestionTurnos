@@ -4,6 +4,26 @@ El propósito del encapsulamiento es ocultar los detalles internos de una clase 
 
 En otras palabras, encapsular significa proteger los datos y la lógica interna de un objeto para que no puedan ser accedidos ni modificados directamente desde afuera. Esto permite que el estado del objeto se mantenga coherente y controlado.
 
+**Relación con principios SOLID:**  
+
+- SRP – Principio de Responsabilidad Única 
+
+El encapsulamiento permite que cada clase controle su propio estado, limitando su responsabilidad a manejar sus propios datos, sin depender de detalles de otras clases. 
+
+ *Ejemplo: la clase Paciente solo gestiona sus datos personales y no permite que otras clases los modifiquen directamente.*  
+
+- OCP – Principio de Abierto/Cerrado
+
+Al ocultar los detalles internos, podés modificar la implementación interna sin afectar a quien usa la clase, siempre que mantengas la interfaz pública estable. 
+Esto hace que la clase sea extensible sin necesidad de ser modificada desde el exterior.  
+
+
+**Relación con patrones de diseño:**  
+
+- Builder 
+  
+Encapsula el proceso de construcción de un objeto complejo, separando el qué del cómo. Esto permite crear objetos paso a paso, sin exponer su construcción interna.
+
 
 ## Ejemplo en el proyecto
 
